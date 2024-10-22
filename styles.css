@@ -1,0 +1,20 @@
+.ones {
+    display: flex;
+
+}
+
+.one {
+    color: rgb(52, 52, 235);
+    padding-left: 0;
+}
+
+.un {
+    row-gap: 40;
+    columns: 30;
+}
+
+.on {
+    
+}
+
+.up {}
